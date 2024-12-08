@@ -1,5 +1,6 @@
 # Spotify-Dashboard-with-Excel
-![spoti](https://github.com/user-attachments/assets/6fb7996f-44f7-4d82-b053-30ee7c7e2cb6)
+
+![spotifyyy](https://github.com/user-attachments/assets/27b6aa84-1689-4b9e-915b-897129829a0e)
 
 
 The dashboard is created using the data from Kaggle, [Spotify - All Time Top 2000s Mega Dataset](https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset). The dataset contains 15 columns and 1994 songs. 
